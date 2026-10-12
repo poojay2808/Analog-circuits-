@@ -1,0 +1,74 @@
+Simple LED Circuit Using a Resistor
+
+
+Aim
+
+
+To construct a basic LED circuit using a current-limiting resistor.
+
+
+Components Required
+
+
+
+
+LED
+
+
+330-ohm resistor
+
+
+5 V DC supply
+
+
+Connecting wires
+
+
+
+
+Working Principle
+
+
+The LED emits light when current flows through it in the forward direction. The resistor limits the current and protects the LED from excessive current.
+
+
+Applications
+
+
+
+
+Indicator lights
+
+
+Electronic devices
+
+
+Status indicators
+
+
+
+
+Advantages
+
+
+
+
+Simple circuit
+
+
+Low cost
+
+
+Easy to understand
+
+
+Requires few components
+
+
+
+
+Conclusion
+
+
+This project demonstrates the basic principles of current limiting and LED operation in an electronic circuit.
+
